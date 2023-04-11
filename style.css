@@ -85,3 +85,23 @@ header{
     height: 200px;
     margin: 20px;
 }
+
+.news{
+    margin: 0 auto;
+    justify-content: center;
+    width: 960px;
+}
+
+.news-heading{
+    font-size: 20px;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.news-item-name{
+    text-align: center;
+}
+
+.news-item-title{
+    float: left;
+}
