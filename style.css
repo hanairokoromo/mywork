@@ -57,3 +57,31 @@ header{
     text-align: center;
     padding: 20px 20px;
 }
+
+.works{
+    margin: 0 auto;
+    justify-content: center;
+    width: 960px;
+}
+
+.works-heading{
+    font-size: 20px;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.works-item-name{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.works-item{
+    display: inline-block;
+    justify-content: space-between;
+}
+
+.works-img{
+    width: 250px;
+    height: 200px;
+    margin: 20px;
+}
